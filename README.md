@@ -3,7 +3,7 @@ Mode archive for official Text Forge mods
 
 # Mode support status
 
-### 🎖️ Official - 🎁 Community
+### 🎖️ Official - 👥 Community
 ### ✏️ Syntax Highlighter - 🔄️ Auto Formatter - ↘️ Auto Indention
 
 ## 🧠 Programming Languages:
