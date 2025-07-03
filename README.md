@@ -1,5 +1,8 @@
 # Text Forge Modes
-Mode archive for official Text Forge mods
+Mode archive for official [Text Forge](https://github.com/mkh-user/text-forge) mods
+
+## "Mode" concept in Text Forge
+Text Forge designed to be lightweight and modular, so we use language agnostic development to keep it in this frame and have highly extendable architecture. To support save/load buffers, syntax highlighters, and every special feature for every file and format, Text Forge provides "Modes". A mode is a module with all data related to a language, framework or file type. With text-based and object oriented design modes can have very small size. (currently ~2KB for each official mode)
 
 # Mode support status
 
