@@ -27,7 +27,7 @@ Text Forge designed to be lightweight and modular, so we use language agnostic d
 ### Log Viewer 🎖️-✏️-🔄️
 ### Todo Tracker 🎖️-✏️-↘️
 
-## ⚠️Work in progress modes
+## ⚠️Work in Progress Modes:
 ### Programming Languages: JavaScript, C / CPP, Java, Rust, Kotlin, Swift, Type Script, Go, Ruby, Bash / SH, Powershell, Perl
 ### Markup / Data Languages: BBCode, Restructured Text, Asciidoc, Extended CSV, SQL, GraphQL, Protobuf, Dockerfile, Makefile, Plantuml, Mermaid, RegEX
 ### Specialized Functional Modes: Changelog, HTTPRequest, EnvironmentVars, Code Snippet Library
