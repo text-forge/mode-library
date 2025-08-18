@@ -16,15 +16,21 @@ Click on mode name to navigate to its source repo.
 ### Features:
 🎨 Syntax Highlighter - 🗂️ Mode Panel - 🧹 Auto Format - 📐 Auto Indent - ⚡ Code Completion - 🖼️ Preview - 🧭 Outline - 🚨 Linting
 ### Other Flags:
-🗃️(Before name) Mode kit - 🧪(With note) Experimental - 🚧 Update in progress - 🧾 Custom File Encoding - 🕸️(Section with API version) Outdated
+🗃️(Before name) Mode kit - 🧪(With note) Experimental - 🚧 Updating... - 🧾 Custom File Encoding - 🕸️(Section with API version) Outdated
 
 > List is sorted in a to z order. Mode kits are above modes.
+> <!--Order: A B C D E F G H I J K L M N O P Q R S T U V W X Y Z-->
 
 ---
 
 ### 🗃️ [Web](https://github.com/text-forge/web-mode-kit) 🎖️🎨🧹⚡ (HTML, CSS, JavaScript, Markdown, JSON)
 ### [GDScript](https://github.com/text-forge/gdscript-mode) 🎖️🎨⚡🧭
+### [CSS](https://github.com/text-forge/web-mode-kit) 🎖️🎨⚡
+### [HTML](https://github.com/text-forge/web-mode-kit) 🎖️🎨🧹⚡
 ### [INI](https://github.com/text-forge/ini-mode) 🎖️🎨🧹🧭
+### [JavaScript](https://github.com/text-forge/web-mode-kit) 🎖️🎨⚡
+### [JSON](https://github.com/text-forge/web-mode-kit) 🎖️🎨🧹
+### [Markdown](https://github.com/text-forge/web-mode-kit) 🎖️🎨
 ### [Python](https://github.com/mkh-user/text-forge-python-mode) 👥🎨🗂️⚡🧭🧪
 > 🧪 With an experimental run code feature
 
