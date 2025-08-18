@@ -22,9 +22,9 @@ Click on mode name to navigate to its source repo.
 
 ---
 
-### 🗃️ [Web](https://github.com/text-forge/web-mode-kit) 🎖️🎨🧹⚡🧪
-> 🧪 HTML is supported, but other modes are in progress
+### 🗃️ [Web](https://github.com/text-forge/web-mode-kit) 🎖️🎨🧹⚡ (HTML, CSS, JavaScript, Markdown, JSON)
 ### [GDScript](https://github.com/text-forge/gdscript-mode) 🎖️🎨⚡🧭
+### [INI](https://github.com/text-forge/ini) 🎖️🎨🧹🧭
 ### [Python](https://github.com/mkh-user/text-forge-python-mode) 👥🎨🗂️⚡🧭🧪
 > 🧪 With an experimental run code feature
 
