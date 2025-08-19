@@ -1,9 +1,5 @@
 # Text Forge Modes
-Modes overview for official [Text Forge](https://github.com/mkh-user/text-forge) mods
-
-> [!Important]
-> Mode library in updating, you can see new version here before merge:
-> [TFM API V2.0](https://github.com/text-forge/mode-library/tree/update-tfmapi-2)
+Modes status overview for official [Text Forge](https://github.com/mkh-user/text-forge) mods
 
 ## "Mode" concept in Text Forge
 Text Forge designed to be lightweight and modular, so we use language agnostic development to keep it in this frame and have highly extendable architecture. To support save/load buffers, syntax highlighters, and every special feature for every file and format, Text Forge provides "Modes". A mode is a module with all data related to a language, framework or file type. With text-based and object oriented design modes can have very small size. (currently less than 10KB for each official mode)
