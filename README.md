@@ -37,3 +37,11 @@ Click on mode name to navigate to its source repo.
 ---
 ### 🕸️ Text Forge Mode API v1.0
 #### 🗃️ [Standard Mode Kit](https://github.com/text-forge/mode-library/tree/mode-api-1) 🎖️🎨🧹
+
+---
+
+# Contribute
+- Please open an issue for each mode/mode kit you want to add, it can be your mode or a mode created by someone else.
+- Describe mode features and provide link to mode source. 
+- For mode kits, describe that kit contents can be used separately or no. These mode kits should provide `.tfmode` for each mode separately (and one for full kit) in releases. 
+- Please use template in mode README file (see official modes/mode kits for example) and add `text-forge` tag to source repo, or recommend these changes to mode maintainers.
