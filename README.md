@@ -1,4 +1,4 @@
-# Text Forge Modes
+# Text Forge Mode Library
 Modes status overview for official [Text Forge](https://github.com/mkh-user/text-forge) mods
 
 ## "Mode" concept in Text Forge
@@ -30,7 +30,7 @@ Click on mode name to navigate to its source repo.
 ### [INI](https://github.com/text-forge/ini-mode) 🎖️🎨🧹🧭
 ### [JavaScript](https://github.com/text-forge/web-mode-kit) 🎖️🎨⚡
 ### [JSON](https://github.com/text-forge/web-mode-kit) 🎖️🎨🧹
-### [Markdown](https://github.com/text-forge/web-mode-kit) 🎖️🎨
+### [Markdown](https://github.com/text-forge/web-mode-kit) 🎖️🎨🧭
 ### [Python](https://github.com/mkh-user/text-forge-python-mode) 👥🎨🗂️⚡🧭🧪
 > 🧪 With an experimental run code feature
 
