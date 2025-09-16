@@ -1,4 +1,4 @@
-# Text Forge Modes
+# Text Forge Mode Library
 Modes status overview for official [Text Forge](https://github.com/mkh-user/text-forge) mods
 
 ## "Mode" concept in Text Forge
