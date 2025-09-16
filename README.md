@@ -1,4 +1,4 @@
-# Text Forge Mode Library
+# Text Forge Modes
 Modes status overview for official [Text Forge](https://github.com/mkh-user/text-forge) mods
 
 ## "Mode" concept in Text Forge
@@ -14,7 +14,7 @@ Click on mode name to navigate to its source repo.
 ### Types:
 🎖️ Official (and community) - 👥 Community
 ### Features:
-🎨 Syntax Highlighter - 🗂️ Mode Panel - 🧹 Auto Format - 📐 Auto Indent - ⚡ Code Completion - 🖼️ Preview - 🧭 Outline - 🚨 Linting
+🎨 Syntax Highlighter - 🗂️ Mode Panel - 🪄 Auto Format - 📐 Auto Indent - ⚡ Code Completion - 🖼️ Preview - 🧭 Outline - 🚨 Linting
 ### Other Flags:
 🗃️(Before name) Mode kit - 🧪(With note) Experimental - 🚧 Updating... - 🧾 Custom File Encoding - 🕸️(Section with API version) Outdated
 
@@ -23,13 +23,13 @@ Click on mode name to navigate to its source repo.
 
 ---
 
-### 🗃️ [Web](https://github.com/text-forge/web-mode-kit) 🎖️🎨🧹⚡🧭 (HTML, CSS, JavaScript, Markdown, JSON)
-### [GDScript](https://github.com/text-forge/gdscript-mode) 🎖️🎨⚡🧭
+### 🗃️ [Web](https://github.com/text-forge/web-mode-kit) 🎖️🎨🪄⚡🧭 (HTML, CSS, JavaScript, Markdown, JSON)
+### [GDScript](https://github.com/text-forge/gdscript-mode) 🎖️🎨🪄⚡🧭
 ### [CSS](https://github.com/text-forge/web-mode-kit) 🎖️🎨⚡
-### [HTML](https://github.com/text-forge/web-mode-kit) 🎖️🎨🧹⚡🧭
-### [INI](https://github.com/text-forge/ini-mode) 🎖️🎨🧹🧭
+### [HTML](https://github.com/text-forge/web-mode-kit) 🎖️🎨🪄⚡🧭
+### [INI](https://github.com/text-forge/ini-mode) 🎖️🎨🪄🧭
 ### [JavaScript](https://github.com/text-forge/web-mode-kit) 🎖️🎨⚡
-### [JSON](https://github.com/text-forge/web-mode-kit) 🎖️🎨🧹
+### [JSON](https://github.com/text-forge/web-mode-kit) 🎖️🎨🪄
 ### [Markdown](https://github.com/text-forge/web-mode-kit) 🎖️🎨🧭
 ### [Python](https://github.com/mkh-user/text-forge-python-mode) 👥🎨🗂️⚡🧭🧪
 > 🧪 With an experimental run code feature
