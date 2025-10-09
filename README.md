@@ -26,6 +26,7 @@ Click on mode name to navigate to its source repo.
 ### 🗃️ [Web](https://github.com/text-forge/web-mode-kit) 🎖️🎨🪄⚡🧭 (HTML, CSS, JavaScript, Markdown, JSON)
 ### [GDScript](https://github.com/text-forge/gdscript-mode) 🎖️🎨🪄⚡🧭
 ### [CSS](https://github.com/text-forge/web-mode-kit) 🎖️🎨⚡
+### [CSV](https://github.com/text-forge/csv-mode) 🎖️🎨🖼️🧭🚨
 ### [HTML](https://github.com/text-forge/web-mode-kit) 🎖️🎨🪄⚡🧭
 ### [INI](https://github.com/text-forge/ini-mode) 🎖️🎨🪄🧭
 ### [JavaScript](https://github.com/text-forge/web-mode-kit) 🎖️🎨⚡
