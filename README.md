@@ -11,8 +11,8 @@ Text Forge have a powerful API for modes based on GDScript, this API name is **T
 
 Click on mode name to navigate to its source repo.
 
-## Modes Count: 11
-## Available Extensions: 23
+### Modes Count: 11
+### Available Extensions: 23
 
 ### Types:
 🎖️ Official (and community) - 👥 Community
