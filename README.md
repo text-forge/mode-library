@@ -34,6 +34,7 @@ Click on mode name to navigate to its source repo.
 ### [Python](https://github.com/text-forge/python-mode) 🎖️🎨🗂️⚡🧭🧪
 > 🧪 With an experimental run code feature
 ### [Rust](https://github.com/text-forge/rust-mode) 🎖️🎨⚡
+### [SVG](https://github.com/text-forge/svg-mode) 🎖️🎨🪄⚡🖼️🧭
 
 ---
 ### 🕸️ Text Forge Mode API v1.0
