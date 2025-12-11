@@ -7,42 +7,48 @@ Text Forge designed to be lightweight and modular, so we use language agnostic d
 ## About TFM API
 Text Forge have a powerful API for modes based on GDScript, this API name is **Text Forge Mode API** (TFM API in short). This API received some major updates and currently haven't complete support for older API versions, so we use TFM API badge to define mode supporting level. You can use just a mode with same API major version number as your editor internal API. Minor API version updates may have little breaking features or simple added features. Using latest editor for latest TFM API and new feature and fixes (specialy for modes) is very recommended. Currenlty latest version is v2.2. (All `a.x` versions are backward compatible down to version `a.y` if `x` > `y`)
 
+## Marketplace
+You can download and install all modes with Ⓜ️ badge from Marketplace, this feature is available in editor (**Settings > Marketplace**) and in browser ([Online Marketplace](https://text-forge.github.io/marketplace)), just search mode name and click on install in editor or download and install from browser.
+
 # Mode support status
 
 Click on mode name to navigate to its source repo.
 
-### Modes Count: 11
-### Available Extensions: 23
+### Modes Count: 12
+### Available Extensions: 24
 
 ### Types:
 🎖️ Official (and community) - 👥 Community
 ### Features:
 🎨 Syntax Highlighter - 🗂️ Mode Panel - 🪄 Auto Format - 📐 Auto Indent - ⚡ Code Completion - 🖼️ Preview - 🧭 Outline - 🚨 Linting
 ### Other Flags:
-🗃️(Before name) Mode kit - 🧪(With note) Experimental - 🚧 Updating... - 🧾 Custom File Encoding - 🕸️(Section with API version) Outdated
+🗃️ (Before name) Mode kit - 🧪 (With note) Experimental - Ⓜ️ Available in Marketplace - 🚧 Updating... - 🧾 Custom File Encoding - 📦 Internal - 🕸️(Section with API version) Outdated
 
 > List is sorted in a to z order. Mode kits are above modes.
 > <!--Order: A B C D E F G H I J K L M N O P Q R S T U V W X Y Z-->
 
 ---
 
-### 🗃️ [Web](https://github.com/text-forge/web-mode-kit) 🎖️🎨🪄⚡🧭 (HTML, CSS, JavaScript, Markdown, JSON)
-### [GDScript](https://github.com/text-forge/gdscript-mode) 🎖️🎨🪄⚡🧭
-### [CSS](https://github.com/text-forge/web-mode-kit) 🎖️🎨⚡
-### [CSV](https://github.com/text-forge/csv-mode) 🎖️🎨🖼️🧭🚨
-### [HTML](https://github.com/text-forge/web-mode-kit) 🎖️🎨🪄⚡🧭
-### [INI](https://github.com/text-forge/ini-mode) 🎖️🎨🪄🧭
-### [JavaScript](https://github.com/text-forge/web-mode-kit) 🎖️🎨⚡
-### [JSON](https://github.com/text-forge/web-mode-kit) 🎖️🎨🪄
-### [Markdown](https://github.com/text-forge/web-mode-kit) 🎖️🎨🧭
-### [Python](https://github.com/text-forge/python-mode) 🎖️🎨🗂️⚡🧭🧪
+### 🗃️ [FullKit](https://github.com/mkh-user/full-mode-kit) 👥🎨🗂️🪄⚡🖼️🧭🚨🧪Ⓜ️ (HTML, CSS, JavaScript, Markdown, JSON, GDScript, CSV, INI, PlainText, Python, Rust, SVG)
+> 🧪 With an experimental run code feature in Python mode
+### 🗃️ [Web](https://github.com/text-forge/web-mode-kit) 🎖️🎨🪄⚡🧭Ⓜ️ (HTML, CSS, JavaScript, Markdown, JSON)
+### [GDScript](https://github.com/text-forge/gdscript-mode) 🎖️🎨🪄⚡🧭Ⓜ️
+### [CSS](https://github.com/text-forge/web-mode-kit) 🎖️🎨⚡Ⓜ️
+### [CSV](https://github.com/text-forge/csv-mode) 🎖️🎨🖼️🧭🚨Ⓜ️
+### [HTML](https://github.com/text-forge/web-mode-kit) 🎖️🎨🪄⚡🧭Ⓜ️
+### [INI](https://github.com/text-forge/ini-mode) 🎖️🎨🪄🧭Ⓜ️
+### [JavaScript](https://github.com/text-forge/web-mode-kit) 🎖️🎨⚡Ⓜ️
+### [JSON](https://github.com/text-forge/web-mode-kit) 🎖️🎨🪄Ⓜ️
+### [Markdown](https://github.com/text-forge/web-mode-kit) 🎖️🎨🧭Ⓜ️
+### [PlainText](https://github.com/text-forge/text-forge) 🎖️📦
+### [Python](https://github.com/text-forge/python-mode) 🎖️🎨🗂️⚡🧭🧪Ⓜ️
 > 🧪 With an experimental run code feature
-### [Rust](https://github.com/text-forge/rust-mode) 🎖️🎨⚡
-### [SVG](https://github.com/text-forge/svg-mode) 🎖️🎨🪄⚡🖼️🧭
+### [Rust](https://github.com/text-forge/rust-mode) 🎖️🎨⚡Ⓜ️
+### [SVG](https://github.com/text-forge/svg-mode) 🎖️🎨🪄⚡🖼️🧭Ⓜ️
 
 ---
 ### 🕸️ Text Forge Mode API v1.0
-#### 🗃️ [Standard Mode Kit](https://github.com/text-forge/mode-library/tree/mode-api-1) 🎖️🎨🧹
+#### 🗃️ [Standard Mode Kit](https://github.com/text-forge/mode-library/tree/mode-api-1) 🎖️🎨🪄
 
 ---
 
