@@ -14,8 +14,8 @@ You can download and install all modes with Ⓜ️ badge from Marketplace, this 
 
 Click on mode name to navigate to its source repo.
 
-### Modes Count: 12
-### Available Extensions: 24
+### Modes Count: 13
+### Available Extensions: 35
 
 ### Types:
 🎖️ Official (and community) - 👥 Community
@@ -45,6 +45,7 @@ Click on mode name to navigate to its source repo.
 > 🧪 With an experimental run code feature
 ### [Rust](https://github.com/text-forge/rust-mode) 🎖️🎨⚡Ⓜ️
 ### [SVG](https://github.com/text-forge/svg-mode) 🎖️🎨🪄⚡🖼️🧭Ⓜ️
+### [XML](https://github.com/text-forge/xml-mode) 🎖️🎨🪄⚡🧭🚨Ⓜ️
 
 ---
 ### 🕸️ Text Forge Mode API v1.0
