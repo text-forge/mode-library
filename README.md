@@ -31,25 +31,41 @@ Click on mode name to navigate to its source repo.
 
 ### 🗃️ [FullKit](https://github.com/mkh-user/full-mode-kit) 👥🎨🗂️🪄⚡🖼️🧭🚨🧪Ⓜ️ (HTML, CSS, JavaScript, Markdown, JSON, GDScript, CSV, INI, PlainText, Python, Rust, SVG)
 > 🧪 With an experimental run code feature in Python mode
+A complete package off all Text Forge official modes in one place.
 ### 🗃️ [Web](https://github.com/text-forge/web-mode-kit) 🎖️🎨🪄⚡🧭Ⓜ️ (HTML, CSS, JavaScript, Markdown, JSON)
+Packed modes for web development.
 ### [GDScript](https://github.com/text-forge/gdscript-mode) 🎖️🎨🪄⚡🧭Ⓜ️
+Feature rich mode for Godot's GDScript.
 ### [CSS](https://github.com/text-forge/web-mode-kit) 🎖️🎨⚡Ⓜ️
+A simple yet clean CSS coding experience.
 ### [CSV](https://github.com/text-forge/csv-mode) 🎖️🎨🖼️🧭🚨Ⓜ️
+Feature rich CSV editing.
 ### [HTML](https://github.com/text-forge/web-mode-kit) 🎖️🎨🪄⚡🧭Ⓜ️
+Most advanced mode in Text Forge modes!
 ### [INI](https://github.com/text-forge/ini-mode) 🎖️🎨🪄🧭Ⓜ️
+Edit INI-Style configuration files in Text Forge. 
 ### [JavaScript](https://github.com/text-forge/web-mode-kit) 🎖️🎨⚡Ⓜ️
+Fastest JS editing experience.
 ### [JSON](https://github.com/text-forge/web-mode-kit) 🎖️🎨🪄Ⓜ️
+A clean and smart JSON editing. 
 ### [Markdown](https://github.com/text-forge/web-mode-kit) 🎖️🎨🧭Ⓜ️
+Complete Markdown support for Text Forge. 
 ### [PlainText](https://github.com/text-forge/text-forge) 🎖️📦
+Internal plain-text support.
 ### [Python](https://github.com/text-forge/python-mode) 🎖️🎨🗂️⚡🧭🧪Ⓜ️
 > 🧪 With an experimental run code feature
+Fastest Python coding flow. 
 ### [Rust](https://github.com/text-forge/rust-mode) 🎖️🎨⚡Ⓜ️
+A simple Rust support for Text Forge. 
 ### [SVG](https://github.com/text-forge/svg-mode) 🎖️🎨🪄⚡🖼️🧭Ⓜ️
+See result of accurate SVG code editing at the same time. 
 ### [XML](https://github.com/text-forge/xml-mode) 🎖️🎨🪄⚡🧭🚨Ⓜ️
+Complete and smart XML support. 
 
 ---
 ### 🕸️ Text Forge Mode API v1.0
 #### 🗃️ [Standard Mode Kit](https://github.com/text-forge/mode-library/tree/mode-api-1) 🎖️🎨🪄
+Standard modes for Text Forge. (TFM API 1.0)
 
 ---
 
