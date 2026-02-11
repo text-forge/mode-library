@@ -30,7 +30,8 @@ Click on mode name to navigate to its source repo.
 ---
 
 ### 🗃️ [FullKit](https://github.com/mkh-user/full-mode-kit) 👥🎨🗂️🪄⚡🖼️🧭🚨🧪Ⓜ️ (HTML, CSS, JavaScript, Markdown, JSON, GDScript, CSV, INI, PlainText, Python, Rust, SVG)
-> 🧪 With an experimental run code feature in Python mode
+> 🧪 With an experimental run code feature in Python mode. 
+
 A complete package off all Text Forge official modes in one place.
 ### 🗃️ [Web](https://github.com/text-forge/web-mode-kit) 🎖️🎨🪄⚡🧭Ⓜ️ (HTML, CSS, JavaScript, Markdown, JSON)
 Packed modes for web development.
